@@ -1,0 +1,82 @@
+.table_wrapper
+ {
+    border-radius: 10px;
+    overflow: hidden;
+}
+table
+{
+    width: 100%;
+    border-collapse: collapse;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+thead
+{
+    color: white;
+}
+.head
+{
+    height: 150px;
+}
+.header
+{
+    background-color: rgba(8, 26, 73, 0.6);
+    height:90px;
+    font-size: 18px;
+}
+.price1
+{
+    background-color: rgba(8, 26, 73, 0.7);
+    height: 90px;
+    font-size: 20px;
+}
+.price2
+{
+    background-color: rgba(8, 26, 73, 0.8);
+    height: 90px;
+    font-size: 20px;
+}
+.price3
+{
+    background-color: rgba(8, 26, 73, 0.9);
+    height: 90px;
+    font-size: 20px;
+}
+.price4
+{
+    background-color: rgb(8, 26, 73);
+    height: 90px;
+    font-size: 20px;
+}
+tr
+{
+    height: 50px;
+}
+.under_header
+{
+    padding-left: 30px;
+    text-align: left;
+}
+td, th 
+{
+    text-align: center;
+}
+button
+{
+    border: 1px solid gray;
+    background-color: gainsboro;
+    font-size: 13px;
+    width: 85px;
+    height: 35px;
+}
+.bright_block
+{
+    background-color: rgba(220, 220, 220, 0.3);
+}
+.dark_block
+{
+    background-color: rgba(220, 220, 220);
+}
+.price_num
+{
+    font-size: 35px;
+}
